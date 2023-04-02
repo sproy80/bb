@@ -1,0 +1,1087 @@
+2023-03-23 13:29:07.118136====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+75  1679557500  5805.0  5815.0  5798.0  5815.0     153  5804.820442  5804.687782  5788.897118  5772.719987      Green      Green     Sure Buy2023-03-23 13:29:28.545306====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+75  1679557500  5805.0  5815.0  5798.0  5815.0     153  5804.820442  5804.687782  5788.897118  5772.719987      Green      Green     Sure Buy2023-03-23 13:29:48.861902====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+75  1679557500  5805.0  5815.0  5798.0  5815.0     153  5804.820442  5804.687782  5788.897118  5772.719987      Green      Green     Sure Buy2023-03-23 13:31:10.380967====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5811.0  5813.0      16  5805.816353  5805.11286  5789.62018  5772.719987      Green      Green     Sure Buy2023-03-23 13:31:30.754065====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5811.0  5813.0      16  5805.816353  5805.11286  5789.62018  5772.719987      Green      Green     Sure Buy2023-03-23 13:31:51.046841====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5811.0  5813.0      16  5805.816353  5805.11286  5789.62018  5772.719987      Green      Green     Sure Buy2023-03-23 13:36:14.889356====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5809.0     120  5805.016353  5804.749223  5789.477323  5772.719987      Green      Green     Sure Buy2023-03-23 13:36:35.271397====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5809.0     120  5805.016353  5804.749223  5789.477323  5772.719987      Green      Green     Sure Buy2023-03-23 13:36:55.571902====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5809.0     120  5805.016353  5804.749223  5789.477323  5772.719987      Green      Green     Sure Buy2023-03-23 13:37:15.855190====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5809.0     124  5805.016353  5804.749223  5789.477323  5772.719987      Green      Green     Sure Buy2023-03-23 13:37:36.282887====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5809.0     124  5805.016353  5804.749223  5789.477323  5772.719987      Green      Green     Sure Buy2023-03-23 13:37:57.089413====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5809.0     124  5805.016353  5804.749223  5789.477323  5772.719987      Green      Green     Sure Buy2023-03-23 13:38:17.929331====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5811.0     136  5805.416353  5804.931041  5789.548752  5772.719987      Green      Green     Sure Buy2023-03-23 13:38:38.731055====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5811.0     136  5805.416353  5804.931041  5789.548752  5772.719987      Green      Green     Sure Buy2023-03-23 13:38:59.447837====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5811.0     136  5805.416353  5804.931041  5789.548752  5772.719987      Green      Green     Sure Buy2023-03-23 13:39:20.655626====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5812.0     143  5805.616353  5805.02195  5789.584466  5772.719987      Green      Green     Sure Buy2023-03-23 13:39:41.222563====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5812.0     143  5805.616353  5805.02195  5789.584466  5772.719987      Green      Green     Sure Buy2023-03-23 13:40:01.765420====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5810.0     148  5805.216353  5804.840132  5789.513037  5772.719987      Green      Green     Sure Buy2023-03-23 13:40:25.170965====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5810.0     148  5805.216353  5804.840132  5789.513037  5772.719987      Green      Green     Sure Buy2023-03-23 13:40:45.741012====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5815.0  5799.0  5810.0     148  5805.216353  5804.840132  5789.513037  5772.719987      Green      Green     Sure Buy2023-03-23 13:41:06.402244====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5817.0     162  5806.616353  5805.476496  5789.763037  5772.719987      Green      Green     Sure Buy2023-03-23 13:41:26.835989====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5817.0     162  5806.616353  5805.476496  5789.763037  5772.719987      Green      Green     Sure Buy2023-03-23 13:41:47.245520====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5817.0     162  5806.616353  5805.476496  5789.763037  5772.719987      Green      Green     Sure Buy2023-03-23 13:42:07.587477====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5815.0     207  5806.216353  5805.294678  5789.691609  5772.719987      Green      Green     Sure Buy2023-03-23 13:42:27.886933====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5815.0     207  5806.216353  5805.294678  5789.691609  5772.719987      Green      Green     Sure Buy2023-03-23 13:42:48.332879====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5815.0     207  5806.216353  5805.294678  5789.691609  5772.719987      Green      Green     Sure Buy2023-03-23 13:43:09.166836====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5810.0     212  5805.216353  5804.840132  5789.513037  5772.719987      Green      Green     Sure Buy2023-03-23 13:43:29.469891====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5810.0     212  5805.216353  5804.840132  5789.513037  5772.719987      Green      Green     Sure Buy2023-03-23 13:43:49.811482====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5810.0     212  5805.216353  5804.840132  5789.513037  5772.719987      Green      Green     Sure Buy2023-03-23 13:44:10.282032====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5811.0     226  5805.416353  5804.931041  5789.548752  5772.719987      Green      Green     Sure Buy2023-03-23 13:44:30.569770====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5811.0     226  5805.416353  5804.931041  5789.548752  5772.719987      Green      Green     Sure Buy2023-03-23 13:44:50.864460====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5811.0     226  5805.416353  5804.931041  5789.548752  5772.719987      Green      Green     Sure Buy2023-03-23 13:45:11.311388====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5814.0     233  5806.016353  5805.203769  5789.655895  5772.719987      Green      Green     Sure Buy2023-03-23 13:45:31.617396====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5814.0     233  5806.016353  5805.203769  5789.655895  5772.719987      Green      Green     Sure Buy2023-03-23 13:45:51.982139====================Buy Order=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+76  1679558400  5811.0  5817.0  5799.0  5814.0     233  5806.016353  5805.203769  5789.655895  5772.719987      Green      Green     Sure Buy2023-03-24 09:32:28.276856====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5760.0  5760.0      23  5788.205704  5812.042181  5813.23919  5833.137599        Red        Red           NA2023-03-24 09:33:10.081839====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5760.0  5760.0      29  5788.205704  5812.042181  5813.23919  5833.137599        Red        Red           NA2023-03-24 09:33:50.984804====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5760.0  5760.0      29  5788.205704  5812.042181  5813.23919  5833.137599        Red        Red           NA2023-03-24 09:34:31.699471====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5759.0      68  5788.005704  5811.951272  5813.203476  5832.937599        Red        Red           NA2023-03-24 09:35:12.827638====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0      70  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:35:53.747868====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0      70  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:36:34.381759====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0      81  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:37:14.898098====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0      84  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:37:55.407004====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0      84  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:38:35.977632====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5764.0      87  5789.005704  5812.405817  5813.382048  5832.937599        Red        Red           NA2023-03-24 09:39:16.613920====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5764.0      88  5789.005704  5812.405817  5813.382048  5832.937599        Red        Red           NA2023-03-24 09:39:57.174749====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5764.0      88  5789.005704  5812.405817  5813.382048  5832.937599        Red        Red           NA2023-03-24 09:40:37.803089====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0      95  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:41:18.552076====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5761.0     103  5788.405704  5812.13309  5813.274905  5832.937599        Red        Red           NA2023-03-24 09:41:59.081180====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5761.0     103  5788.405704  5812.13309  5813.274905  5832.937599        Red        Red           NA2023-03-24 09:42:39.760226====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5760.0     111  5788.205704  5812.042181  5813.23919  5832.937599        Red        Red           NA2023-03-24 09:43:20.744434====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5760.0     117  5788.205704  5812.042181  5813.23919  5832.937599        Red        Red           NA2023-03-24 09:44:01.465791====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5761.0     127  5788.405704  5812.13309  5813.274905  5832.937599        Red        Red           NA2023-03-24 09:44:42.064663====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5761.0     127  5788.405704  5812.13309  5813.274905  5832.937599        Red        Red           NA2023-03-24 09:45:22.690212====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+60  1679630400  5765.0  5765.0  5759.0  5763.0     135  5788.805704  5812.314908  5813.346333  5832.937599        Red        Red           NA2023-03-24 09:46:03.173237====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5763.0  5764.0       8  5783.844563  5807.922644  5811.583964  5827.643839        Red        Red           NA2023-03-24 09:46:43.734817====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5763.0  5764.0       8  5783.844563  5807.922644  5811.583964  5827.643839        Red        Red           NA2023-03-24 09:47:24.319503====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5763.0  5764.0      15  5783.844563  5807.922644  5811.583964  5827.643839        Red        Red           NA2023-03-24 09:48:04.844081====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5763.0  5764.0      15  5783.844563  5807.922644  5811.583964  5827.643839        Red        Red           NA2023-03-24 09:48:50.304071====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5763.0  5764.0      15  5783.844563  5807.922644  5811.583964  5827.643839        Red        Red           NA2023-03-24 09:49:30.873246====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5762.0      23  5783.444563  5807.740825  5811.512536  5827.443839        Red        Red           NA2023-03-24 09:50:11.397184====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5762.0      26  5783.444563  5807.740825  5811.512536  5827.443839        Red        Red           NA2023-03-24 09:50:51.869354====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5762.0      26  5783.444563  5807.740825  5811.512536  5827.443839        Red        Red           NA2023-03-24 09:51:32.372077====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5763.0      28  5783.644563  5807.831734  5811.54825  5827.443839        Red        Red           NA2023-03-24 09:52:12.849807====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5762.0      33  5783.444563  5807.740825  5811.512536  5827.443839        Red        Red           NA2023-03-24 09:52:53.376184====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5762.0      33  5783.444563  5807.740825  5811.512536  5827.443839        Red        Red           NA2023-03-24 09:53:33.861585====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5762.0      33  5783.444563  5807.740825  5811.512536  5827.443839        Red        Red           NA2023-03-24 09:54:14.344312====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5763.0      35  5783.644563  5807.831734  5811.54825  5827.443839        Red        Red           NA2023-03-24 09:54:54.906122====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5763.0      35  5783.644563  5807.831734  5811.54825  5827.443839        Red        Red           NA2023-03-24 09:55:35.666818====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5763.0      36  5783.644563  5807.831734  5811.54825  5827.443839        Red        Red           NA2023-03-24 09:56:16.218384====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5763.0      40  5783.644563  5807.831734  5811.54825  5827.443839        Red        Red           NA2023-03-24 09:56:56.837735====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5762.0  5763.0      40  5783.644563  5807.831734  5811.54825  5827.443839        Red        Red           NA2023-03-24 09:57:37.385032====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5761.0  5761.0      42  5783.244563  5807.649916  5811.476821  5827.243839        Red        Red           NA2023-03-24 09:58:17.913325====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5761.0  5761.0      42  5783.244563  5807.649916  5811.476821  5827.243839        Red        Red           NA2023-03-24 09:58:58.501478====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5761.0  5761.0      42  5783.244563  5807.649916  5811.476821  5827.243839        Red        Red           NA2023-03-24 09:59:39.044863====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5761.0  5761.0      42  5783.244563  5807.649916  5811.476821  5827.243839        Red        Red           NA2023-03-24 10:00:19.598403====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5761.0  5761.0      43  5783.244563  5807.649916  5811.476821  5827.243839        Red        Red           NA2023-03-24 10:01:00.526626====================Exit Buy Trade=================================
+          date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+61  1679631300  5763.0  5764.0  5761.0  5761.0      43  5783.244563  5807.649916  5811.476821  5827.243839        Red        Red           NA2023-03-24 10:01:41.458520====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5761.0  5761.0  5761.0       1  5778.79565  5803.409015  5809.674078  5819.269455        Red        Red           NA2023-03-24 10:02:21.973258====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5764.0  5761.0  5764.0       6  5779.39565  5803.681742  5809.781221  5821.669455        Red        Red           NA2023-03-24 10:03:02.490529====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5764.0  5761.0  5764.0      15  5779.39565  5803.681742  5809.781221  5821.669455        Red        Red           NA2023-03-24 10:03:43.038580====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5764.0  5761.0  5764.0      15  5779.39565  5803.681742  5809.781221  5821.669455        Red        Red           NA2023-03-24 10:04:23.967801====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5765.0  5761.0  5765.0      17  5779.59565  5803.772651  5809.816935  5822.469455        Red        Red           NA2023-03-24 10:05:04.478174====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      20  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:05:45.082484====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      20  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:06:25.624633====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5763.0      43  5779.19565  5803.590833  5809.745506  5823.269455        Red        Red           NA2023-03-24 10:07:06.199053====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5763.0      43  5779.19565  5803.590833  5809.745506  5823.269455        Red        Red           NA2023-03-24 10:07:46.825859====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5763.0      43  5779.19565  5803.590833  5809.745506  5823.269455        Red        Red           NA2023-03-24 10:08:27.482911====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      46  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:09:08.092307====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5766.0      50  5779.79565  5803.86356  5809.852649  5823.269455        Red        Red           NA2023-03-24 10:09:48.781484====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5766.0      50  5779.79565  5803.86356  5809.852649  5823.269455        Red        Red           NA2023-03-24 10:10:29.266047====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5766.0      51  5779.79565  5803.86356  5809.852649  5823.269455        Red        Red           NA2023-03-24 10:11:09.814787====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      55  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:11:50.422996====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      55  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:12:31.061688====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      56  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:13:11.661061====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      56  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:13:52.289423====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      56  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:14:32.899123====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5765.0      61  5779.59565  5803.772651  5809.816935  5823.269455        Red        Red           NA2023-03-24 10:15:13.559697====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5764.0      71  5779.39565  5803.681742  5809.781221  5823.269455        Red        Red           NA2023-03-24 10:15:54.153739====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+62  1679632200  5761.0  5766.0  5761.0  5764.0      71  5779.39565  5803.681742  5809.781221  5823.269455        Red        Red           NA2023-03-24 10:16:34.722242====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5765.0       1  5776.51652  5800.16522  5808.181891  5818.59251        Red        Red           NA2023-03-24 10:17:15.341459====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5764.0       2  5776.31652  5800.074311  5808.146177  5818.59251        Red        Red           NA2023-03-24 10:17:56.159968====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5764.0       2  5776.31652  5800.074311  5808.146177  5818.59251        Red        Red           NA2023-03-24 10:18:36.687865====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5764.0       3  5776.31652  5800.074311  5808.146177  5818.59251        Red        Red           NA2023-03-24 10:19:19.061538====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5765.0       4  5776.51652  5800.16522  5808.181891  5818.59251        Red        Red           NA2023-03-24 10:19:59.655329====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5765.0       4  5776.51652  5800.16522  5808.181891  5818.59251        Red        Red           NA2023-03-24 10:20:40.223091====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5765.0       5  5776.51652  5800.16522  5808.181891  5818.59251        Red        Red           NA2023-03-24 10:21:21.174482====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9      EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5764.0  5765.0       7  5776.51652  5800.16522  5808.181891  5818.59251        Red        Red           NA2023-03-24 10:22:02.035851====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5761.0  5761.0      20  5775.71652  5799.801584  5808.039034  5817.99251        Red        Red           NA2023-03-24 10:22:42.681539====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5761.0  5761.0      20  5775.71652  5799.801584  5808.039034  5817.99251        Red        Red           NA2023-03-24 10:23:23.513058====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5756.0  5759.0      41  5775.31652  5799.619766  5807.967606  5816.99251        Red        Red           NA2023-03-24 10:24:04.278677====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5756.0  5758.0      43  5775.11652  5799.528856  5807.931891  5816.99251        Red        Red           NA2023-03-24 10:24:44.823087====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5756.0  5758.0      43  5775.11652  5799.528856  5807.931891  5816.99251        Red        Red           NA2023-03-24 10:25:25.397676====================Exit Buy Trade=================================
+          date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+63  1679633100  5764.0  5765.0  5756.0  5760.0      46  5775.51652  5799.710675  5808.00332  5816.99251        Red        Red           NA2023-03-24 18:03:03.699338====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1412  1679661120  5588.0  5590.0  5584.0  5584.0      12  5589.909716  5590.668226  5585.376845  5604.152838        Red        Red    Sure Sell2023-03-24 18:23:12.990814====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1432  1679662320  5590.0  5598.0  5590.0  5598.0      28  5587.212644  5585.796201  5584.917779  5570.355788      Green      Green     Sure Buy2023-03-24 18:23:25.703735====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1432  1679662320  5590.0  5598.0  5590.0  5598.0      28  5587.212644  5585.796201  5584.917779  5570.355788      Green      Green     Sure Buy2023-03-24 18:50:11.767299====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1459  1679663940  5618.0  5618.0  5608.0  5614.0     107  5624.277916  5624.387171  5611.506891  5643.435722        Red       Sell    Sure Sell2023-03-24 18:50:26.565383====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1459  1679663940  5618.0  5618.0  5608.0  5614.0     107  5624.277916  5624.387171  5611.506891  5643.435722        Red       Sell    Sure Sell2023-03-24 18:52:12.221023====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21     EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1461  1679664060  5626.0  5633.0  5626.0  5628.0      57  5624.657866  5624.518323  5612.4573  5643.435722      Green        Red           NA2023-03-24 18:55:08.317900====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1464  1679664240  5640.0  5650.0  5635.0  5647.0      88  5632.232828  5628.291002  5615.249136  5611.210351      Green        Buy     Sure Buy2023-03-24 19:13:12.496671====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1482  1679665320  5628.0  5628.0  5619.0  5623.0     148  5641.767735  5642.959173  5631.132232  5660.347227        Red       Sell    Sure Sell2023-03-24 19:13:25.261032====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1482  1679665320  5628.0  5628.0  5619.0  5623.0     148  5641.767735  5642.959173  5631.132232  5660.347227        Red       Sell    Sure Sell2023-03-24 19:23:13.472722====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1492  1679665920  5642.0  5649.0  5637.0  5649.0      32  5640.733083  5640.28232  5633.138462  5660.347227      Green        Red           NA2023-03-24 19:28:13.962184====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1497  1679666220  5657.0  5667.0  5657.0  5665.0      88  5651.047577  5645.859181  5636.690161  5631.769659      Green        Buy     Sure Buy2023-03-24 19:46:02.774403====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+101  1679667300  5693.0  5695.0  5683.0  5684.0     177  5650.596697  5647.938574  5698.385272  5577.29128      Green      Green     Sure Buy2023-03-24 19:52:06.082666====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1521  1679667660  5668.0  5668.0  5643.0  5643.0     253  5670.196588  5671.482471  5659.204196  5690.272137        Red       Sell    Sure Sell2023-03-24 19:52:10.582526====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+101  1679667300  5693.0  5695.0  5643.0  5643.0     725  5642.396697  5644.211301  5696.920987   5560.3792        Red      Green           NA2023-03-24 19:52:18.773267====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1521  1679667660  5668.0  5668.0  5643.0  5643.0     253  5670.196588  5671.482471  5659.204196  5690.272137        Red       Sell    Sure Sell2023-03-24 19:55:14.156761====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+101  1679667300  5693.0  5695.0  5640.0  5665.0    1193  5646.796697  5646.211301  5697.706701   5560.3792      Green      Green     Sure Buy2023-03-24 19:58:14.936478====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1527  1679668020  5676.0  5682.0  5673.0  5679.0      52  5670.462478  5670.109502  5660.773952  5643.207058      Green        Buy     Sure Buy2023-03-24 19:58:28.184225====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1527  1679668020  5676.0  5682.0  5673.0  5679.0      52  5670.462478  5670.109502  5660.773952  5643.207058      Green        Buy     Sure Buy2023-03-24 20:12:13.102661====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1541  1679668860  5666.0  5669.0  5661.0  5663.0      59  5673.150748  5673.928027  5666.81281  5654.018467        Red      Green           NA2023-03-24 20:26:15.309529====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1555  1679669700  5658.0  5658.0  5650.0  5653.0      53  5659.908886  5664.394331  5664.857246  5679.525609        Red       Sell    Sure Sell2023-03-24 20:47:11.684682====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1576  1679670960  5659.0  5661.0  5653.0  5653.0      85  5649.462634  5649.332549  5654.644837  5632.634491      Green      Green     Sure Buy2023-03-24 20:47:24.714757====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1576  1679670960  5659.0  5661.0  5653.0  5653.0      85  5649.462634  5649.332549  5654.644837  5632.634491      Green      Green     Sure Buy2023-03-24 21:16:41.976043====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:16:44.923115====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:16:47.723783====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:16:50.539264====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:16:53.309589====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:16:56.515524====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:16:59.323444====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:17:02.470995====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1605  1679672700  5682.0  5693.0  5681.0  5693.0     149  5680.370696  5672.024096  5663.903632  5663.521201      Green      Green           NA2023-03-24 21:17:05.404409====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:08.189199====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:11.169546====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:13.943015====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:16.741836====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:19.560956====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:22.508007====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:25.305211====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:28.316886====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:31.101838====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:33.886549====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:36.663201====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:39.637042====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:42.637357====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:45.368104====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:48.343070====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:51.255234====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:54.028372====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:56.864288====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:17:59.775757====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:18:02.752955====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1606  1679672760  5693.0  5705.0  5693.0  5702.0     192  5684.696557  5674.749178  5665.264217  5674.071956      Green      Green           NA2023-03-24 21:18:05.508915====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:08.313819====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:11.073618====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:13.898455====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:16.723901====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:19.522682====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:22.359252====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:25.141310====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:27.916110====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:30.753137====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:33.671111====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:36.424919====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:39.158109====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:42.109021====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:44.855713====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:47.657095====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:50.597789====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:53.380577====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:56.199470====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:18:58.979000====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:19:02.066165====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1607  1679672820  5703.0  5710.0  5701.0  5709.0     133  5689.557246  5677.862889  5666.826209  5680.36476      Green      Green           NA2023-03-24 21:19:04.795342====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:07.610953====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:10.435538====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:13.182067====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:16.002229====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:18.728041====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:21.535679====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:24.437317====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:27.234683====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:30.028713====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:32.779299====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:35.545366====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:38.271995====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:41.162631====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:44.515113====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:47.341337====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:50.116359====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:53.093409====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:55.861948====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:19:58.819957====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:20:01.652972====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1608  1679672880  5709.0  5718.0  5708.0  5715.0     172  5694.645796  5681.23899  5668.546702  5687.378284      Green      Green           NA2023-03-24 21:20:04.436093====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:07.286498====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:10.130173====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:12.936029====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:15.676420====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:18.447616====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:21.281701====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:24.077293====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:27.081729====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:29.895292====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:32.832031====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:35.713440====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:38.516930====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:41.341815====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:44.142933====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:46.837774====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:49.657824====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:52.420661====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:55.275485====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:20:57.955975====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:21:00.809867====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1609  1679672940  5717.0  5722.0  5715.0  5721.0     295  5699.916637  5684.853627  5670.420034  5693.340456      Green      Green           NA2023-03-24 21:21:03.820999====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:06.797587====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:09.799072====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:12.638848====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:15.745268====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:19.173613====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:22.767407====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:26.000072====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:29.070227====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:32.064165====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:35.215521====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:38.320418====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:41.618131====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:44.602085====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:47.681894====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:50.614795====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:53.513019====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:56.593253====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:21:59.565406====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:22:02.824249====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1610  1679673000  5718.0  5719.0  5714.0  5716.0     131  5703.13331  5687.685116  5672.04789  5693.340456      Green      Green           NA2023-03-24 21:22:06.657944====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:10.395587====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:13.809789====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:17.223841====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:20.966751====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:24.053907====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:26.980316====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:30.005586====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:32.853438====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:35.696656====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:38.673547====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:41.464453====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:44.261096====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:46.991931====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:49.789697====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:52.675853====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:55.501592====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:22:58.295720====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:23:01.405904====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1611  1679673060  5715.0  5716.0  5709.0  5710.0     168  5704.506648  5689.713741  5673.403322  5693.340456      Green      Green           NA2023-03-24 21:23:04.204298====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:06.953992====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:09.719426====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:12.451260====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:15.463412====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:18.236492====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:20.990014====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:23.826794====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:26.608785====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:29.386376====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:32.265989====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:34.978208====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:37.767554====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:40.576939====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:43.493073====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:46.329490====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:49.261123====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:52.164070====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:54.919894====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:23:57.671732====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:24:00.552758====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1612  1679673120  5710.0  5720.0  5710.0  5714.0     121  5706.405318  5691.921583  5674.853204  5693.340456      Green      Green           NA2023-03-24 21:24:03.358920====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:06.109698====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:09.043914====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:11.837472====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:14.653888====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:17.423829====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:20.201178====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:22.974738====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:25.782474====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:28.615668====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:31.457734====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:34.303984====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:37.113261====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:39.974123====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:42.778572====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:45.617406====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:48.408056====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:51.174119====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:54.016118====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:57.095338====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:24:59.942576====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:25:02.960030====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1613  1679673180  5715.0  5717.0  5712.0  5717.0      34  5708.524255  5694.201439  5676.358446  5693.340456      Green      Green           NA2023-03-24 21:25:06.003891====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:09.892045====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:12.943894====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:16.143431====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:18.970813====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:22.374641====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:25.249229====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:28.206826====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:31.374357====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:34.838523====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:37.864072====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:40.766596====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:44.173095====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:47.061556====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:49.965460====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:53.378306====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:25:56.862250====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:26:00.478741====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1614  1679673240  5717.0  5717.0  5714.0  5716.0      38  5710.019404  5696.183127  5677.774216  5693.340456      Green      Green           NA2023-03-24 21:26:03.894584====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:08.720160====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:11.698733====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:14.630338====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:17.601105====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:20.422697====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:23.197502====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:26.001850====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:28.786669====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:31.642598====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:34.531234====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:37.286341====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:40.141111====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:42.950991====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:45.774876====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:48.583624====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:51.386551====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:54.385437====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:26:57.097227====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:27:00.423377====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1615  1679673300  5715.0  5735.0  5715.0  5730.0     350  5714.015523  5699.257388  5679.639423  5698.799348      Green      Green           NA2023-03-24 21:27:03.304001====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:06.165265====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:08.923655====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:12.108699====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:15.051045====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:18.046936====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:22.439143====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:26.427205====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:29.768709====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:33.068586====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:36.336025====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:39.590072====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:42.538306====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:45.626332====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:48.548049====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:51.466584====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:54.351341====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:27:57.146769====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:28:00.040593====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:28:02.955185====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1616  1679673360  5732.0  5742.0  5730.0  5737.0     294  5718.612418  5702.688534  5681.688015  5708.819413      Green      Green           NA2023-03-24 21:28:05.808730====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1617  1679673420  5737.0  5744.0  5737.0  5742.0     126  5723.289935  5706.262304  5683.842014  5713.937472      Green      Green           NA2023-03-24 21:28:08.690864====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1617  1679673420  5737.0  5744.0  5737.0  5742.0     126  5723.289935  5706.262304  5683.842014  5713.937472      Green      Green           NA2023-03-24 21:28:11.915746====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1617  1679673420  5737.0  5744.0  5737.0  5742.0     126  5723.289935  5706.262304  5683.842014  5713.937472      Green      Green           NA2023-03-24 21:28:14.901388====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1617  1679673420  5737.0  5744.0  5737.0  5742.0     126  5723.289935  5706.262304  5683.842014  5713.937472      Green      Green           NA2023-03-24 21:28:17.782902====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1617  1679673420  5737.0  5744.0  5737.0  5742.0     126  5723.289935  5706.262304  5683.842014  5713.937472      Green      Green           NA2023-03-24 21:41:05.590146====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1630  1679674200  5700.0  5705.0  5699.0  5699.0     162  5717.870273  5718.226429  5699.599485  5731.045402        Red        Red    Sure Sell2023-03-24 22:18:03.110565====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1667  1679676420  5698.0  5707.0  5696.0  5705.0     159  5691.441825  5688.560578  5689.981213  5679.31784      Green        Buy     Sure Buy2023-03-24 22:28:05.702628====================Exit Buy Trade=================================
+            date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55  Supertrend EMA_Signal Sup_Signal Final_Signal
+1677  1679677020  5719.0  5725.0  5719.0  5725.0      96  5711.33484  5702.770231  5696.345171  5700.60889      Green      Green           NA2023-03-24 23:30:03.392850====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1739  1679680740  5730.0  5731.0  5727.0  5730.0     113  5726.046697  5726.001834  5722.009433  5719.723469      Green      Green     Sure Buy2023-03-27 09:16:01.359596====================Buy Order=================================
+           date    open    high     low   close  volume       EMA_9      EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+885  1679888700  5726.0  5729.0  5726.0  5729.0       9  5725.43958  5724.11259  5722.18799  5717.155963      Green        Buy     Sure Buy2023-03-27 09:36:07.897913====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5725.0  5725.0  5725.0       1  5727.249702  5727.424941  5725.443035  5724.602539        Red      Green           NA2023-03-27 09:36:31.329707====================Sell Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5725.0  5724.0  5724.0       3  5727.049702  5727.334032  5725.407321  5731.748746        Red       Sell    Sure Sell2023-03-27 09:36:32.862940====================Exit Sell Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+905  1679889900  5728.0  5728.0  5725.0  5726.0       6  5727.812128  5727.667435  5725.459444  5724.602539      Green      Green           NA2023-03-27 09:36:35.958374====================Sell Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5725.0  5724.0  5724.0       3  5727.049702  5727.334032  5725.407321  5731.748746        Red       Sell    Sure Sell2023-03-27 09:36:37.481134====================Exit Sell Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+905  1679889900  5728.0  5728.0  5725.0  5726.0       6  5727.812128  5727.667435  5725.459444  5724.602539      Green      Green           NA2023-03-27 09:36:42.030160====================Sell Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5726.0  5724.0  5724.0       6  5727.049702  5727.334032  5725.407321  5732.248746        Red       Sell    Sure Sell2023-03-27 09:36:45.391464====================Exit Sell Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+905  1679889900  5728.0  5728.0  5725.0  5726.0       6  5727.812128  5727.667435  5725.459444  5724.602539      Green      Green           NA2023-03-27 09:36:48.528903====================Sell Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5726.0  5724.0  5724.0       7  5727.049702  5727.334032  5725.407321  5732.248746        Red       Sell    Sure Sell2023-03-27 09:36:50.063311====================Exit Sell Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+905  1679889900  5728.0  5728.0  5725.0  5726.0       6  5727.812128  5727.667435  5725.459444  5724.602539      Green      Green           NA2023-03-27 09:36:56.609829====================Sell Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5726.0  5724.0  5724.0       7  5727.049702  5727.334032  5725.407321  5732.248746        Red       Sell    Sure Sell2023-03-27 09:36:58.142760====================Exit Sell Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+905  1679889900  5728.0  5728.0  5725.0  5726.0       6  5727.812128  5727.667435  5725.459444  5724.602539      Green      Green           NA2023-03-27 09:36:59.716640====================Sell Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+906  1679889960  5725.0  5726.0  5724.0  5724.0       7  5727.049702  5727.334032  5725.407321  5732.248746        Red       Sell    Sure Sell2023-03-27 09:59:03.101347====================Exit Sell Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5725.0  5725.0  5725.0       0  5723.860203  5723.843899  5724.166674  5725.639387      Green        Red           NA2023-03-27 09:59:17.809862====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5725.0  5726.0       1  5724.060203  5723.934808  5724.202388  5721.482048      Green        Buy     Sure Buy2023-03-27 09:59:22.678437====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+928  1679891280  5723.0  5725.0  5723.0  5725.0       5  5723.575254  5723.728289  5724.13581  5725.639387        Red        Red           NA2023-03-27 09:59:24.399350====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5725.0  5726.0       1  5724.060203  5723.934808  5724.202388  5721.482048      Green        Buy     Sure Buy2023-03-27 09:59:26.017267====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+928  1679891280  5723.0  5725.0  5723.0  5725.0       5  5723.575254  5723.728289  5724.13581  5725.639387        Red        Red           NA2023-03-27 09:59:32.356185====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5725.0  5726.0       1  5724.060203  5723.934808  5724.202388  5721.482048      Green        Buy     Sure Buy2023-03-27 09:59:37.090229====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+928  1679891280  5723.0  5725.0  5723.0  5725.0       5  5723.575254  5723.728289  5724.13581  5725.639387        Red        Red           NA2023-03-27 09:59:43.633974====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5725.0  5726.0       1  5724.060203  5723.934808  5724.202388  5721.482048      Green        Buy     Sure Buy2023-03-27 09:59:52.291860====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:06.000488====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       4  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:00:07.647147====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:09.229467====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       4  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:00:14.487929====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:16.298574====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       7  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:00:17.929810====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:27.620369====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       7  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:00:34.000619====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:41.794858====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       7  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:00:43.357291====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:46.737665====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       7  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:00:51.445400====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:00:53.001795====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       7  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:01:00.846275====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+929  1679891340  5725.0  5726.0  5724.0  5724.0       3  5723.660203  5723.75299  5724.130959  5725.639387        Red        Red           NA2023-03-27 10:01:02.413301====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+930  1679891400  5724.0  5726.0  5724.0  5726.0       7  5724.128163  5723.957264  5724.197711  5720.513843      Green        Buy     Sure Buy2023-03-27 10:04:09.209693====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+934  1679891640  5723.0  5723.0  5723.0  5723.0       0  5723.922895  5723.94069  5724.166022  5721.162459        Red      Green           NA2023-03-27 10:05:56.908695====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9     EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+935  1679891700  5723.0  5726.0  5723.0  5726.0       3  5724.338316  5724.1279  5724.231522  5721.162459      Green      Green     Sure Buy2023-03-27 10:06:00.207333====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+934  1679891640  5723.0  5723.0  5723.0  5723.0       0  5723.922895  5723.94069  5724.166022  5721.162459        Red      Green           NA2023-03-27 10:06:01.857250====================Buy Order=================================
+           date    open    high     low   close  volume        EMA_9     EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+935  1679891700  5723.0  5726.0  5723.0  5726.0       3  5724.338316  5724.1279  5724.231522  5721.162459      Green      Green     Sure Buy2023-03-27 10:57:21.787982====================Exit Buy Trade=================================
+           date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+987  1679894820  5744.0  5747.0  5743.0  5747.0      54  5742.607955  5739.367839  5734.305959  5738.437931      Green      Green           NA2023-03-27 11:47:48.536342====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5757.0       3  5759.473099  5759.521087  5754.051703  5765.589121        Red        Red    Sure Sell2023-03-27 11:47:53.879745====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1036  1679897760  5761.0  5761.0  5757.0  5759.0      15  5760.091374  5759.773196  5753.942507  5765.589121      Green        Red           NA2023-03-27 11:47:55.679930====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5757.0       4  5759.473099  5759.521087  5754.051703  5765.589121        Red        Red    Sure Sell2023-03-27 11:47:59.184621====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1036  1679897760  5761.0  5761.0  5757.0  5759.0      15  5760.091374  5759.773196  5753.942507  5765.589121      Green        Red           NA2023-03-27 11:48:04.695258====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5759.0  5759.0       3  5759.538479  5759.55636  5754.262867  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:06.572216====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:08.609880====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5759.0  5759.0       3  5759.538479  5759.55636  5754.262867  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:10.511700====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:12.391739====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5759.0  5759.0       3  5759.538479  5759.55636  5754.262867  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:14.190539====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:16.333459====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5759.0  5759.0       3  5759.538479  5759.55636  5754.262867  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:20.081869====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:25.721766====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5759.0  5759.0       3  5759.538479  5759.55636  5754.262867  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:27.796618====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:38.449420====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5758.0  5758.0       5  5759.338479  5759.465451  5754.227152  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:40.169027====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:43.791098====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5758.0  5758.0       5  5759.338479  5759.465451  5754.227152  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:45.649656====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:49.165971====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5758.0  5758.0       5  5759.338479  5759.465451  5754.227152  5765.589121        Red        Red    Sure Sell2023-03-27 11:48:54.456719====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1037  1679897820  5759.0  5760.0  5757.0  5758.0       6  5759.673099  5759.611996  5754.087417  5765.589121      Green        Red           NA2023-03-27 11:48:56.180337====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1038  1679897880  5759.0  5759.0  5758.0  5758.0       5  5759.338479  5759.465451  5754.227152  5765.589121        Red        Red    Sure Sell2023-03-27 11:55:02.976108====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1044  1679898240  5760.0  5762.0  5760.0  5762.0      12  5759.349018  5759.244425  5755.119047  5764.258805      Green        Red           NA2023-03-27 11:56:57.370811====================Buy Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1046  1679898360  5762.0  5765.0  5762.0  5765.0       3  5760.903372  5759.995393  5755.70891  5756.675388      Green        Buy     Sure Buy2023-03-27 12:02:31.601187====================Exit Buy Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1052  1679898720  5778.0  5785.0  5778.0  5785.0      58  5773.422157  5767.318827  5759.747462  5770.689183      Green      Green           NA2023-03-27 13:00:12.521397====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1110  1679902200  5791.0  5791.0  5785.0  5785.0      14  5789.704235  5790.302413  5785.569206  5799.693857        Red       Sell    Sure Sell2023-03-27 13:00:17.012541====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1109  1679902140  5788.0  5791.0  5788.0  5791.0      35  5790.880293  5790.832654  5785.590288  5785.128272      Green      Green           NA2023-03-27 13:00:19.259609====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1110  1679902200  5791.0  5791.0  5780.0  5780.0      32  5788.704235  5789.847867  5785.390635  5798.693857        Red       Sell    Sure Sell2023-03-27 13:00:22.383218====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1109  1679902140  5788.0  5791.0  5788.0  5791.0      35  5790.880293  5790.832654  5785.590288  5785.128272      Green      Green           NA2023-03-27 13:00:25.009241====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1110  1679902200  5791.0  5791.0  5780.0  5782.0      48  5789.104235  5790.029685  5785.462064  5798.693857        Red       Sell    Sure Sell2023-03-27 13:00:28.727342====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1109  1679902140  5788.0  5791.0  5788.0  5791.0      35  5790.880293  5790.832654  5785.590288  5785.128272      Green      Green           NA2023-03-27 13:00:57.068590====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1110  1679902200  5791.0  5791.0  5780.0  5785.0      62  5789.704235  5790.302413  5785.569206  5798.693857        Red       Sell    Sure Sell2023-03-27 13:00:59.913378====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1109  1679902140  5788.0  5791.0  5788.0  5791.0      35  5790.880293  5790.832654  5785.590288  5785.128272      Green      Green           NA2023-03-27 13:01:48.032970====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1111  1679902260  5786.0  5788.0  5785.0  5785.0      23  5788.923388  5789.90302  5785.583316  5799.274472        Red       Sell    Sure Sell2023-03-27 13:08:35.813539====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55   Supertrend EMA_Signal Sup_Signal Final_Signal
+1118  1679902680  5768.0  5770.0  5765.0  5765.0      14  5773.671539  5780.517293  5782.332226  5781.197594        Red        Red           NA2023-03-28 20:04:09.280109====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:04:17.296502====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:04:24.833311====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:04:32.308313====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:04:39.759235====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:04:47.264290====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:04:55.576533====================Sell Order=================================
+            date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1532  1680013980  6029.0  6029.0  6020.0  6020.0      27  6027.807753  6028.282863  6019.127648  6010.214683  6042.595266        Red        Red    Sure Sell2023-03-28 20:06:10.883097====================Exit Sell Trade=================================
+            date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1534  1680014100  6022.0  6023.0  6015.0  6015.0     117  6024.476962  6026.63873  6019.113591  6010.388249  6039.536304        Red        Red           NA2023-03-29 16:03:11.675333====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:03:20.350906====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:03:28.801315====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:03:37.652956====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:03:46.239804====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:03:55.197224====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:03.722021====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2161 2023-03-29 10:32:00  6102.0  6109.0  6100.0  6105.0      63  6099.595626  6099.019892  6096.579693  6086.484275  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:12.212416====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:20.777390====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:29.429053====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:37.942887====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:46.666449====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 16:04:55.238756====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 16:05:03.726783====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2162 2023-03-29 10:33:00  6105.0  6105.0  6101.0  6104.0      54  6100.476501  6099.472629  6096.844704  6086.658561  6093.750149      Green      Green     Sure Buy2023-03-29 17:10:05.681760====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2228 2023-03-29 11:39:00  6098.0  6107.0  6097.0  6106.0      60  6097.335265  6096.088933  6098.034989  6093.276091  6091.046292      Green      Green     Sure Buy2023-03-29 17:24:05.837355====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2242 2023-03-29 11:53:00  6095.0  6095.0  6093.0  6095.0      22  6100.825853  6101.231358  6100.438561  6094.740512  6104.251725        Red        Red    Sure Sell2023-03-29 17:32:12.990645====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21      EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2250 2023-03-29 12:01:00  6102.0  6111.0  6102.0  6109.0      56  6100.482079  6100.153823  6099.99575  6095.026382  6095.003923      Green      Green     Sure Buy2023-03-29 17:34:08.419306====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2252 2023-03-29 12:03:00  6105.0  6105.0  6100.0  6100.0       7  6101.108531  6100.540349  6100.168242  6095.174123  6095.003923      Green      Green           NA2023-03-29 18:03:29.006604====================Buy Order=================================
+                    date    open    high     low   close  volume       EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2281 2023-03-29 12:32:00  6105.0  6107.0  6104.0  6107.0      13  6105.03988  6104.843821  6103.320966  6097.613082  6098.810423      Green      Green     Sure Buy2023-03-29 18:06:12.001999====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2284 2023-03-29 12:35:00  6104.0  6105.0  6100.0  6100.0      16  6103.988419  6104.420602  6103.314713  6097.781551  6099.145534        Red      Green           NA2023-03-29 18:14:10.501182====================Buy Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2292 2023-03-29 12:43:00  6107.0  6109.0  6107.0  6109.0      13  6105.057644  6104.392075  6103.465541  6098.236916  6099.398193      Green      Green     Sure Buy2023-03-29 18:17:07.001059====================Exit Buy Trade=================================
+                    date    open    high     low   close  volume        EMA_9      EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+2295 2023-03-29 12:46:00  6101.0  6104.0  6101.0  6102.0       6  6103.661513  6103.86482  6103.346039  6098.357788  6099.398193        Red      Green           NA2023-03-29 19:20:04.642452====================Sell Order=================================
+                   date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+786 2023-03-29 13:48:00  6095.0  6096.0  6074.0  6076.0     188  6095.951522  6099.986823  6100.653965  6084.547036  6113.026696        Red        Red    Sure Sell2023-03-29 19:21:02.686839====================Exit Sell Trade=================================
+                   date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+786 2023-03-29 13:48:00  6095.0  6096.0  6074.0  6090.0     292  6098.751522  6101.259551  6101.153965  6084.686339  6113.026696        Red        Red    Sure Sell2023-03-29 19:53:06.725741====================Buy Order=================================
+                   date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55     EMA_200  Supertrend EMA_Signal Sup_Signal Final_Signal
+797 2023-03-29 14:21:00  6106.0  6114.0  6105.0  6114.0      80  6103.356851  6101.856196  6101.278239  6086.41417   6082.2377      Green      Green     Sure Buy2023-03-29 20:06:07.029837====================Exit Buy Trade=================================
+                   date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+801 2023-03-29 14:33:00  6115.0  6119.0  6089.0  6100.0     629  6106.099446  6103.902935  6102.246938  6087.279479  6087.618783      Green      Green     Sure Buy2023-03-29 21:47:05.428384====================Sell Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1636 2023-03-29 16:16:00  6027.0  6028.0  6024.0  6025.0      41  6025.983051  6026.066018  6038.877735  6069.622557  6037.234683        Red        Red    Sure Sell2023-03-29 21:48:05.305776====================Exit Sell Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1637 2023-03-29 16:17:00  6025.0  6035.0  6025.0  6029.0      39  6026.586441  6026.332743  6038.524959  6069.218353  6037.234683      Green        Red           NA2023-03-29 23:18:04.822065====================Sell Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1727 2023-03-29 17:47:00  6029.0  6029.0  6021.0  6021.0     118  6028.408748  6029.036383  6031.405657  6047.482436  6034.340993        Red        Red    Sure Sell2023-03-29 23:20:09.106848====================Exit Sell Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+1729 2023-03-29 17:49:00  6015.0  6017.0  6007.0  6011.0     213  6022.781599  6026.236681  6030.111893  6046.799435  6029.962604        Red        Red           NA2023-03-31 16:44:24.303301====================Buy Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55     EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+854  2023-03-31 16:44:22.417806  6158.0  6163.0  6158.0  6163.0    21.0  ...  6153.016437  6130.52904  6153.171333       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 16:49:08.120863====================Exit Buy Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+859  2023-03-31 16:49:06.140293  6159.0  6159.0  6157.0  6157.0     3.0  ...  6154.040505  6131.927049  6153.171333         Red       Green           NA
+
+[1 rows x 14 columns]2023-03-31 16:58:49.424321====================Buy Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+868  2023-03-31 16:58:47.272085  6160.0  6161.0  6158.0  6161.0    13.0  ...  6156.118565  6134.482419  6154.220821       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 16:59:35.067046====================Exit Buy Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+869  2023-03-31 16:59:33.126363  6163.0  6165.0  6158.0  6158.0    59.0  ...  6156.220198  6134.726276  6154.220821         Red       Green           NA
+
+[1 rows x 14 columns]2023-03-31 17:01:04.812367====================Sell Order=================================
+                           date    open    high     low   close  volume  ...      EMA_55     EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+871  2023-03-31 17:01:02.740444  6156.0  6156.0  6154.0  6154.0     1.0  ...  6156.16653  6135.13738  6165.556015         Red         Red    Sure Sell
+
+[1 rows x 14 columns]2023-03-31 17:01:23.933619====================Exit Sell Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+871  2023-03-31 17:01:21.781480  6156.0  6157.0  6154.0  6157.0    14.0  ...  6156.273673  6135.167231  6154.220821         Red       Green           NA
+
+[1 rows x 14 columns]2023-03-31 17:16:25.957482====================Buy Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+886  2023-03-31 17:16:24.004669  6157.0  6161.0  6157.0  6161.0    13.0  ...  6155.696561  6137.891773  6148.518109       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 17:26:00.829087====================Exit Buy Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+895  2023-03-31 17:25:58.971308  6164.0  6165.0  6157.0  6157.0    24.0  ...  6157.799208  6140.072275  6171.642916       Green         Red           NA
+
+[1 rows x 14 columns]2023-03-31 17:38:53.929604====================Sell Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55    EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+908  2023-03-31 17:38:52.443561  6160.0  6160.0  6158.0  6158.0    20.0  ...  6158.943486  6142.6114  6168.729624         Red         Red    Sure Sell
+
+[1 rows x 14 columns]2023-03-31 17:39:28.614817====================Exit Sell Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+909  2023-03-31 17:39:26.883294  6158.0  6159.0  6156.0  6159.0   172.0  ...  6158.945504  6142.774471  6167.156662         Red         Red    Sure Sell
+
+[1 rows x 14 columns]2023-03-31 18:07:40.383484====================Buy Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+937  2023-03-31 18:07:38.599031  6154.0  6161.0  6154.0  6161.0    36.0  ...  6155.820612  6145.460447  6144.168367       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 18:09:30.185563====================Exit Buy Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+939  2023-03-31 18:09:28.328773  6161.0  6161.0  6156.0  6156.0    12.0  ...  6156.071808  6145.737909  6149.061531       Green       Green           NA
+
+[1 rows x 14 columns]2023-03-31 18:19:36.776514====================Sell Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+949  2023-03-31 18:19:34.419227  6147.0  6147.0  6143.0  6143.0   101.0  ...  6154.416852  6146.229339  6156.836231         Red         Red    Sure Sell
+
+[1 rows x 14 columns]2023-03-31 18:23:36.173010====================Exit Sell Trade=================================
+                           date    open    high     low   close  volume  ...     EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+953  2023-03-31 18:23:32.990846  6148.0  6155.0  6148.0  6155.0    18.0  ...  6153.4423  6146.261911  6137.978449         Red       Green           NA
+
+[1 rows x 14 columns]2023-03-31 18:30:17.817900====================Buy Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55     EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+960  2023-03-31 18:30:15.494622  6153.0  6158.0  6153.0  6158.0    64.0  ...  6153.026946  6146.61423  6143.213883       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 18:39:52.346641====================Exit Buy Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+969  2023-03-31 18:39:49.646130  6158.0  6158.0  6148.0  6148.0    27.0  ...  6153.630473  6147.347655  6170.726442       Green         Red           NA
+
+[1 rows x 14 columns]2023-03-31 18:41:11.695928====================Sell Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+971  2023-03-31 18:41:08.914833  6147.0  6147.0  6146.0  6146.0    22.0  ...  6153.162819  6147.340574  6162.508418         Red         Red    Sure Sell
+
+[1 rows x 14 columns]2023-03-31 18:41:46.347695====================Exit Sell Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+971  2023-03-31 18:41:44.622622  6147.0  6152.0  6141.0  6152.0   117.0  ...  6153.377105  6147.400276  6165.508418       Green         Red           NA
+
+[1 rows x 14 columns]2023-03-31 18:58:27.857256====================Buy Order=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+988  2023-03-31 18:58:24.983673  6164.0  6166.0  6164.0  6166.0    46.0  ...  6155.280495  6148.936045  6151.051687       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 19:03:15.454773====================Exit Buy Trade=================================
+                           date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+993  2023-03-31 19:03:12.880939  6179.0  6186.0  6179.0  6186.0   130.0  ...  6158.919456  6150.306924  6163.939512       Green       Green           NA
+
+[1 rows x 14 columns]2023-03-31 20:14:28.121503====================Buy Order=================================
+                            date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+1064  2023-03-31 20:14:26.203451  6170.0  6173.0  6170.0  6173.0    63.0  ...  6168.892877  6162.472958  6154.933477       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 20:14:45.454095====================Exit Buy Trade=================================
+                            date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+1064  2023-03-31 20:14:43.432400  6170.0  6174.0  6170.0  6172.0    73.0  ...  6168.857162  6162.463008  6155.133477         Red       Green           NA
+
+[1 rows x 14 columns]2023-03-31 20:15:20.454198====================Buy Order=================================
+                            date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+1065  2023-03-31 20:15:18.344617  6172.0  6175.0  6172.0  6175.0    17.0  ...  6169.076549  6162.587754  6157.420129       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 20:22:10.905021====================Exit Buy Trade=================================
+                            date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+1072  2023-03-31 20:22:07.595563  6169.0  6169.0  6162.0  6162.0    28.0  ...  6170.040735  6163.333582  6161.596674       Green       Green           NA
+
+[1 rows x 14 columns]2023-03-31 22:57:39.796341====================Buy Order=================================
+                            date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+1000  2023-03-31 22:57:37.985528  6199.0  6200.0  6198.0  6200.0    29.0  ...  6199.685879  6185.785329  6192.568692       Green       Green     Sure Buy
+
+[1 rows x 14 columns]2023-03-31 22:58:31.621994====================Exit Buy Trade=================================
+                            date    open    high     low   close  volume  ...       EMA_55      EMA_200   Supertrend  EMA_Signal  Sup_Signal Final_Signal
+1000  2023-03-31 22:58:27.989916  6200.0  6201.0  6198.0  6198.0    24.0  ...  6199.623209  6185.906638  6192.568692         Red       Green           NA
+
+[1 rows x 14 columns]

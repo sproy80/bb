@@ -1,0 +1,5 @@
+2023-03-31 22:21:33.175274====================Sell Order=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55     EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+999  2023-03-31 22:21:00  6201.0  6201.0  6198.0  6200.0    12.0  6204.418615  6206.040827  6200.308315  6179.42757  6211.506502        Red        Red    Sure Sell2023-03-31 22:22:55.834573====================Exit Sell Trade=================================
+                    date    open    high     low   close  volume        EMA_9       EMA_21       EMA_55      EMA_200   Supertrend EMA_Signal Sup_Signal Final_Signal
+999  2023-03-31 22:22:00  6202.0  6204.0  6199.0  6201.0    17.0  6204.534892  6205.995793  6200.505212  6179.691557  6200.797091        Red      Green           NA

@@ -1,0 +1,362 @@
+Error Time : 2023-03-27 08:46:02.813605 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 08:46:22.914456 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 08:48:30.739007 
+ Error Details : Length mismatch: Expected axis has 0 elements, new values have 6 elements 
+Error Time : 2023-03-27 08:48:50.875477 
+ Error Details : Length mismatch: Expected axis has 0 elements, new values have 6 elements 
+Error Time : 2023-03-27 13:09:05.944614 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:26.073364 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:46.191407 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:06.297358 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:26.408403 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:46.539501 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:06.706233 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:22:11.343807 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 14:10:05.544929 
+ Error Details : 'candles' 
+Error Time : 2023-03-28 11:19:33.784995 
+ Error Details : name 'tradeReason' is not defined 
+Error Time : 2023-03-29 10:27:06.883670 
+ Error Details : string index out of range 
+Error Time : 2023-03-29 10:27:13.386168 
+ Error Details : string index out of range 
+Error Time : 2023-03-29 10:27:19.805803 
+ Error Details : string index out of range 
+Error Time : 2023-03-29 10:27:26.251689 
+ Error Details : string index out of range 
+Error Time : 2023-03-30 13:29:02.156359 
+ Error Details : get_data() got an unexpected keyword argument 'exchang' 
+Error Time : 2023-03-30 13:29:07.195532 
+ Error Details : get_data() got an unexpected keyword argument 'exchang' 
+Error Time : 2023-03-30 13:29:12.207141 
+ Error Details : get_data() got an unexpected keyword argument 'exchang' 
+Error Time : 2023-03-30 13:29:17.215589 
+ Error Details : get_data() got an unexpected keyword argument 'exchang' 
+Error Time : 2023-03-30 13:29:22.230538 
+ Error Details : get_data() got an unexpected keyword argument 'exchang' 
+Error Time : 2023-03-30 13:29:57.503181 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:02.599169 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:07.698344 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:12.784882 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:17.875105 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:22.962542 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:28.054117 
+ Error Details : 'candles' 
+Error Time : 2023-03-30 13:30:51.403620 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:30:56.650981 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:01.925462 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:07.200125 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:12.532849 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:18.135631 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:23.404479 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:28.669600 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:33.935892 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:39.285399 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:44.537385 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:49.829761 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:31:55.065165 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:00.363582 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:05.609382 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:10.842705 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:16.199143 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:21.471022 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:26.694357 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:31.922059 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:37.166438 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:42.416616 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:47.872348 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:53.112646 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:32:58.579452 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:03.818931 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:09.065509 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:14.498872 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:19.749222 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:24.992098 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:30.230177 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:35.479903 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:40.729619 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:45.983159 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:51.232949 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:33:56.456129 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:01.836086 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:07.065699 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:12.358231 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:17.622092 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:22.891139 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:28.247862 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:33.488612 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:44.776916 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:47.019305 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:49.275558 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:51.569377 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:53.826907 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:56.099843 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:34:58.361591 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:00.601479 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:02.864773 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:05.106841 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:07.327349 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:09.678286 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:11.926452 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:14.146849 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:16.390603 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:18.654678 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:20.899982 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:23.151849 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:33.524433 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:35.780465 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:37.997076 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:40.243067 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:42.677141 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:45.096196 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:47.334677 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:49.573752 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:51.884868 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:54.159303 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:56.495251 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:35:58.748834 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:01.036463 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:03.322652 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:05.622872 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:07.889196 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:10.170380 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:12.456902 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:14.755304 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:17.041584 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:19.394382 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:21.664503 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:23.937809 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:26.203099 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:28.491381 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:30.770752 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:33.056355 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:35.371737 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:37.682692 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:39.965368 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:42.314476 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:36:44.610362 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:36.189058 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:38.472507 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:40.720512 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:43.022798 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:45.253756 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:47.499450 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:49.750504 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:51.995286 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:54.241874 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:56.515586 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:42:58.770565 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:43:01.117636 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:43:03.359240 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:43:05.600447 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:43:07.849758 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-30 13:43:10.066409 
+ Error Details : Usecols do not match columns, columns expected but not found: ['Datetime'] 
+Error Time : 2023-03-31 13:34:59.863928 
+ Error Details : first argument must be an iterable of pandas objects, you passed an object of type "DataFrame" 
+Error Time : 2023-03-31 13:35:02.425128 
+ Error Details : first argument must be an iterable of pandas objects, you passed an object of type "DataFrame" 
+Error Time : 2023-03-31 13:35:04.812865 
+ Error Details : first argument must be an iterable of pandas objects, you passed an object of type "DataFrame" 
+Error Time : 2023-03-31 13:35:07.154211 
+ Error Details : first argument must be an iterable of pandas objects, you passed an object of type "DataFrame" 
+Error Time : 2023-03-31 13:36:52.293172 
+ Error Details : 259 
+Error Time : 2023-03-31 13:36:54.887784 
+ Error Details : 259 
+Error Time : 2023-03-31 13:36:57.407970 
+ Error Details : 259 
+Error Time : 2023-03-31 13:36:59.937590 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:02.415595 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:05.273213 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:37.156606 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:39.712590 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:42.406600 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:45.122704 
+ Error Details : 260 
+Error Time : 2023-03-31 13:37:47.836614 
+ Error Details : 259 
+Error Time : 2023-03-31 13:37:50.418690 
+ Error Details : 260 
+Error Time : 2023-03-31 13:37:52.934233 
+ Error Details : 260 
+Error Time : 2023-03-31 13:37:55.468834 
+ Error Details : 260 
+Error Time : 2023-03-31 13:37:58.234394 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:00.985220 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:03.611553 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:06.387864 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:09.128161 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:11.749989 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:14.288812 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:16.888400 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:19.523876 
+ Error Details : 260 
+Error Time : 2023-03-31 13:38:22.302574 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:24.924766 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:27.881148 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:30.397833 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:33.277106 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:36.064366 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:38.673316 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:41.278804 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:44.055636 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:46.733831 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:49.295433 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:51.912382 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:54.428798 
+ Error Details : 261 
+Error Time : 2023-03-31 13:38:57.032219 
+ Error Details : 261 
+Error Time : 2023-03-31 13:53:01.739947 
+ Error Details : 'Series' object has no attribute 'price' 

@@ -1,0 +1,46 @@
+
+TODO :
+
+INTERVAL shld be zero for 1 min time_frame
+
+Entry Criteria :
+
+1. Trade according to Supertrend
+2. When EMA9 crosses EMA21
+3. Any parts(OHLC) of current candle touches EMA9.  
+If previous signal showing Entry but no position made due to above criteria then we have check the same in current candle and all other criteria to take a position.
+4. Difference between current price and nearby EMA(50/200) not less than Target Price for stock only. Not for Crudeoil.(10pts min)
+
+
+Watch now implement later :
+
+1. Sometimes EMA9 already crosses in previous candles but Supertrend signal coming in current candle. In those cases we need to skip Entry Criteria 3.
+2. When target achived but EMA21 crosses EMA51 then we need to continue with current trade and  look for bigger target.
+
+Exit Criteria :
+
+1. If currenct price => Target price
+
+2. If EMA9 < EMA21
+
+3. if Supertrend showing reverse signal
+
+4. If last candle is inverted hammer
+
+5. If current price - EMA9 > 10
+
+6. 20 points scalping
+
+
+
+Challenges :
+
+1. Too many trading 
+
+2. Data limitations and have to incorporate multiple data sources
+
+FYERS : what is the daily request limit for historical data via truedata api from Fyers 
+3rd part app? Hi Sir, Apologies for the late reply. One can make max 3 request in 1 sec, 
+100 request in 1 min and max 6000 in 1 hour as per Truedata doc link90.
+
+YAHOO : JSON output doesn't work for Yahoo-like style. We have API limits 100 000 requests per day.

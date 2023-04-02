@@ -1,0 +1,78 @@
+Error Time : 2023-03-24 12:25:04.720432 
+ Error Details : name 'isActiveBuyTrade' is not defined 
+Error Time : 2023-03-24 12:26:48.249634 
+ Error Details : name 'isActiveBuyTrade' is not defined 
+Error Time : 2023-03-24 12:28:06.391291 
+ Error Details : name 'isActiveBuyTrade' is not defined 
+Error Time : 2023-03-24 12:29:25.392713 
+ Error Details : name 'isActiveBuyTrade' is not defined 
+Error Time : 2023-03-24 12:36:19.767363 
+ Error Details : isActiveBuyTrade() missing 1 required positional argument: 'value' 
+Error Time : 2023-03-24 13:06:04.742007 
+ Error Details : 'bool' object is not callable 
+Error Time : 2023-03-24 13:06:26.585942 
+ Error Details : 'bool' object is not callable 
+Error Time : 2023-03-24 13:06:48.048170 
+ Error Details : 'bool' object is not callable 
+Error Time : 2023-03-24 13:40:05.616900 
+ Error Details : can't set attribute 
+Error Time : 2023-03-24 13:40:27.398051 
+ Error Details : can't set attribute 
+Error Time : 2023-03-24 13:40:49.302820 
+ Error Details : can't set attribute 
+Error Time : 2023-03-27 08:46:54.343546 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:08:55.472675 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:05.621235 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:15.736776 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:25.834834 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:35.970815 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:46.090675 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:09:56.224289 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:06.338132 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:16.435407 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:26.565487 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:36.685031 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:46.809640 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:10:56.958340 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:07.138969 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:17.265676 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:27.395682 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:37.517105 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:47.623962 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:11:57.758451 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:12:07.863436 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:13:55.151822 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:14:05.265797 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:14:15.352050 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:14:25.661750 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:14:35.766014 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:14:45.873662 
+ Error Details : 'candles' 
+Error Time : 2023-03-27 13:14:56.001482 
+ Error Details : 'candles' 

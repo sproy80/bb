@@ -1,0 +1,8 @@
+Error Time : 2023-03-23 20:58:07.827913 
+ Error Details : 'DataFrame' object has no attribute 'ined' 
+Error Time : 2023-03-23 22:02:59.341426 
+ Error Details : 'sup_signal' 
+Error Time : 2023-03-24 10:18:32.510216 
+ Error Details : name 'isActiveTrade' is not defined 
+Error Time : 2023-03-24 10:18:37.642439 
+ Error Details : name 'isActiveTrade' is not defined 
